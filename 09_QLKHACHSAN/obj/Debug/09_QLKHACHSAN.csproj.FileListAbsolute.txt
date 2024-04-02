@@ -1,0 +1,10 @@
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\bin\Debug\09_QLKHACHSAN.exe.config
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\bin\Debug\09_QLKHACHSAN.exe
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\bin\Debug\09_QLKHACHSAN.pdb
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\obj\Debug\09_QLKHACHSAN.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\obj\Debug\_09_QLKHACHSAN.Form1.resources
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\obj\Debug\_09_QLKHACHSAN.Properties.Resources.resources
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\obj\Debug\09_QLKHACHSAN.csproj.GenerateResource.cache
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\obj\Debug\09_QLKHACHSAN.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\obj\Debug\09_QLKHACHSAN.exe
+C:\Users\phuon\source\repos\09_QLKHACHSAN\09_QLKHACHSAN\obj\Debug\09_QLKHACHSAN.pdb
